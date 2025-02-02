@@ -12,7 +12,7 @@
   <a href="https://github.com/Harikalagudu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/Harikalagudu/" target="_blank">
+  <a href="https://leetcode.com/u/KUvFNKJSko/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-%23FF8C00?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td align="center" style="padding: 16px;">
-        <a href="https://leetcode.com/Harikalagudu/">
+        <a href="https://leetcode.com/u/KUvFNKJSko/">
           <img src="https://leetcard.jacoblin.cool/Harikalagudu?theme=dark" alt="LeetCode Stats" />
         </a>
       </td>

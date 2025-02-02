@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Lagudu Harika</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=💻+Full-Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**Harikalagudu/Harikalagudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/harika-lagudu-066458276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Harikalagudu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Stats:
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; background: #2e2e2e; color: #f0f0f0;">GitHub</th>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikalagudu&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌐 [Portfolio](https://harikalagudu.github.io/portfolio/)
+
+Explore [my portfolio](https://harikalagudu.github.io/portfolio/) to learn more about my projects, achievements, and experience.
+

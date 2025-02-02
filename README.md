@@ -29,7 +29,7 @@
     <tr>
       <td align="center" style="padding: 16px;">
         <a href="https://leetcode.com/u/KUvFNKJSko/">
-          <img src="https://leetcard.jacoblin.cool/Harikalagudu?theme=dark" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/KUvFNKJSko?theme=dark" alt="LeetCode Stats" />
         </a>
       </td>
       <td align="center" style="padding: 16px;">
